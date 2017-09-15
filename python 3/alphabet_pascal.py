@@ -1,5 +1,4 @@
 import string
-
 def print_rangoli(N):
     # your code goes here
     mid = N - 1
